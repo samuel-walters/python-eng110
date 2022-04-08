@@ -18,3 +18,7 @@ f = c % b
 
 print(f)
 print(type(f))
+
+g = c // a
+print (g)
+print(type(g))
