@@ -39,9 +39,11 @@ s = "#######Engine###ering 110      "
 
 # concatenation 
 
-a = "here is"
+a = "here is "
 b = 5
-c = "aaaaaaa"
+c = " aaaaaaa"
+
+print(a + str(b) + c)
 
 #print(d.capitalize() + ".")
 
