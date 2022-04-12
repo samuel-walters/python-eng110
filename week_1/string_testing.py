@@ -69,6 +69,3 @@ print(type(b))
 
 
 
-
-
-
