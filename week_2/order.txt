@@ -1,0 +1,21 @@
+Word: sam Score: 5
+Total score:
+5
+Word: chicken Score: 18
+Total score:
+23
+Word: samuel Score: 8
+Total score:
+31
+Word: chess Score: 10
+Total score:
+41
+Word: OIFJW Score: 18
+Total score:
+59
+Word: anotherword Score: 18
+Total score:
+77
+Word: jwaifjFJWpfjFIJWfiwjefFJwfijFJWfFFFWfwa Score: 170
+Total score:
+247
